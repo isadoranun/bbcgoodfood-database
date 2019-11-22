@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = gs://bbcgoodfood-db
+[core]
+remote = myremote
